@@ -17,3 +17,4 @@ class LoginPage {
         cy.get(loginElements.btnEnter()).click()
     }
 } export default LoginPage;
+//https://demo.automationtesting.in/Register.html
